@@ -1,3 +1,3 @@
 # MyTestProject
 
-Public Repo Testing
+Public Repo
